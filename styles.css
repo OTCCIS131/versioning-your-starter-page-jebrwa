@@ -1,0 +1,27 @@
+body {
+  padding-top: 70px;
+  background-image: url("darth_window.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: lightgray;
+  text-align: center;
+}
+.jumbotron {
+  background-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: gray;
+  font-family: 'Poiret One', cursive;
+  padding: 50px;
+  margin-top: -20px;
+}
+.container {
+  font-family: 'Ruda', sans-serif;
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 10px;
+  margin: inherit;
+  width: auto;
+}
+footer {
+  background-color: black;
+  position:relative;
+}
